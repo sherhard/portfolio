@@ -53,3 +53,12 @@ ul.head-menu a{
 		float: none;
 	}
 }
+
+/*header slider*/
+
+.head-slider{
+	text-align: center;
+}
+img.sliderImage{
+	max-width: 500px;
+}
